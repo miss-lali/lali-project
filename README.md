@@ -1,6 +1,3 @@
-lali project 
-<br> 
-this is my first git file
+lali 
 <br>
-do hardwork
-let's start github.
+Author - krishna(kumari)
